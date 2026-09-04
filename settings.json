@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free1.vektalnodes.in",
-    "port": 23988,
+    "ip": "delhi-841468.indernos.in",
+    "port": 841468,
     "version": "1.20.1",
     "try-creative": false
   },
