@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "delhi-841468.indernos.in",
-    "port": 27274,
+    "ip": "kingsmc.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
