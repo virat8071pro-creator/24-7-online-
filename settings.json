@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kingsmc.mcsh.io",
-    "port": 25565,
+    "ip": "kingsmpmc.play.hosting",
+    "port": 43301,
     "version": "1.20.1",
     "try-creative": false
   },
